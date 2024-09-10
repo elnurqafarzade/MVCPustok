@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Pustok.Business",
+    "\\src\\Pustok.MVC",
+    "\\src\\Pustok.MVC\\Areas",
+    "\\src\\Pustok.MVC\\Areas\\Admin",
+    "\\src\\Pustok.MVC\\Areas\\Admin\\Views",
+    "\\src\\Pustok.MVC\\Views",
+    "\\src\\Pustok.MVC\\Views\\Shared",
+    "\\src\\Pustok.MVC\\wwwroot",
+    "\\src\\Pustok.MVC\\wwwroot\\admin"
+  ],
+  "SelectedNode": "\\src\\Pustok.MVC\\wwwroot\\admin\\img",
+  "PreviewInSolutionExplorer": false
+}
